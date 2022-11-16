@@ -60,7 +60,7 @@ def change_password(password):
     f.close()
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Program to change the application password for Group5.program1.exe file.')
+    parser = argparse.ArgumentParser(description='Program to change the application password for Group5.program2.exe file.')
     parser.add_argument("--new_password", help="Changes the password.")
     args = parser.parse_args()
     new_password = args.new_password
