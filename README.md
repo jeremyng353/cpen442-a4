@@ -8,4 +8,4 @@ For Question 3 (Assignment 4 - at home part), clone the repo and run the *Group5
 
 Note: Current password is password
 
-This will edit the existing *Group5.program1.exe* file that you can run with your new password
+This will edit the existing *Group5.program2.exe* file that you can run with your new password
